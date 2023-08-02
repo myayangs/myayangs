@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭I’m a Devops Engineer<br>💬 Currently learning Cloud Computing<br>⚡ Keep trying hard to unlock new skills
-
+🔭I’m a Devops Engineer<br>💬 Currently learning Cloud Computing<br>⚡I also like the challenge of new things, and learning to acquire new knowledge and skills
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/myyngstwn) 
